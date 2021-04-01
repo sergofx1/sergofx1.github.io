@@ -1,0 +1,79 @@
+body{
+    background: #b39460;
+}
+#zagol{
+    color: black;
+    margin-left: 48%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#pib{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin-left: 38%;
+}
+
+#narod{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-top: 3%;
+}
+#education{
+    font-size:20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+#dosvid{
+    font-size:20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+span{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#skils{
+    font-size:40px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+#img{
+    margin-left: 50%;
+    margin-top: -20%;
+    width: 700px;
+    height: 500px;
+}
+
+#email{
+    font-size:20px;
+    font-family: 'Times New Roman', Times, serif; 
+}
+  .two ul{
+    list-style: none; /*убираем маркеры списка*/
+    margin: 0; /*убираем верхнее и нижнее поле, равное 1em*/
+    padding-left: 0; /*убираем левый отступ, равный 40px*/
+  }
+  
+
+        .two ul {
+
+            background :#dfd5bb;
+            overflow: hidden;
+            padding: 0;
+          }
+          .two li {
+            float: left;
+          }
+          .two a {
+            display: block;
+            padding: 1em;
+            border-right: 0px solid #ADC0CE;
+            background:#dfd5bbba(173, 192, 206, .3);
+            color: #29838C;
+          }
+          .two a:hover {background: #ADC0CE}
+          a {text-decoration: none; /*убираем подчеркивание текста ссылок*/}
