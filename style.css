@@ -80,12 +80,25 @@ span{
 
 
 
+
          #prac{
-text-alight:center;
+            background-color: peru;
+            display:inline-block;
+            margin-left: 47.35%;
+            font-size: 22px;
              
 
 }
+
+.lab{
+   text-align: center;
+}
   
+ 
+  
+
+
+
  
   
 
