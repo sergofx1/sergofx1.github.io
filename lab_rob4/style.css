@@ -1,0 +1,16 @@
+body{
+    background: #b39460;
+}
+
+
+.title{
+    text-align: center;
+}
+
+.task{
+    background-color:orange;
+    display: inline-block;
+    margin-left: 15%;
+    padding: 30px;
+    
+}
